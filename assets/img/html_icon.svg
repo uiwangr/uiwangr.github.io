@@ -3,10 +3,6 @@
   <defs>
     <style>
       .cls-1 {
-        letter-spacing: .02em;
-      }
-
-      .cls-2 {
         fill: #221e1f;
         font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
         font-size: 18px;
@@ -14,15 +10,19 @@
         letter-spacing: .02em;
       }
 
-      .cls-3 {
+      .cls-2 {
         fill: #8dc63f;
         font-family: Arial-BoldMT, Arial;
         font-size: 411.51px;
         font-weight: 700;
       }
 
-      .cls-4 {
+      .cls-3 {
         letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: .02em;
       }
 
       .cls-5 {
@@ -34,6 +34,6 @@
     </style>
   </defs>
   <rect class="cls-5" x="12" y="12" width="500" height="500" rx="12" ry="12"/>
-  <text class="cls-3" transform="translate(60.63 408.52) scale(.73 1)"><tspan class="cls-4" x="0" y="0">W</tspan><tspan class="cls-1" x="387.14" y="0">r</tspan></text>
-  <text class="cls-2" transform="translate(181.23 516.3)"><tspan x="0" y="0">designed by @uiwangr</tspan></text>
+  <text class="cls-2" transform="translate(60.63 408.52) scale(.73 1)"><tspan class="cls-3" x="0" y="0">W</tspan><tspan class="cls-4" x="387.15" y="0">r</tspan></text>
+  <text class="cls-1" transform="translate(181.23 516.3)"><tspan x="0" y="0">designed by @uiwangr</tspan></text>
 </svg>
