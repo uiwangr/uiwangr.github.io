@@ -1,3 +1,3 @@
-# Rui Wang's personal webpage
+# My personal webpage
 
-This is the personal website of Rui Wang, which can be visualized at [https://uiwangr.github.io/](https://uiwangr.github.io/).
+This is the personal website of Steve, which can be visualized at [https://uiwangr.github.io/](https://uiwangr.github.io/).
